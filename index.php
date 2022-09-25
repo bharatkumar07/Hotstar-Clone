@@ -61,7 +61,7 @@ if(!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !==true)
       <video src="videos/pixar.mp4" muted loop class="card-video"></video>
     </div>
     <div class="video-card">
-      <img src="images/marvel.png" class="video-card-image" alt="">
+      <img src="images/marvel.PNG" class="video-card-image" alt="">
       <video src="videos/marvel.mp4" muted loop class="card-video"></video>
     </div>
     <div class="video-card">
