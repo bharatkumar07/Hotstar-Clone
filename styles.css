@@ -63,8 +63,8 @@ body{
 }
 .sub-btn{
     background: #1f80e0;
-    height: 40px;
-    padding:10px 22px;
+    height: 30px;
+    padding:0 20px;
     color:whitesmoke;
     border:none;
     outline:none;
@@ -337,22 +337,6 @@ display:none;
         .pre-btn:hover img,
         .nxt-btn:hover img{
             opacity: 1;
-        }
-
-        @media screen and (max-width: 500px)
-        {
-           .search-box{
-            display: none;
-           }
-           .navbar ul{
-            display: none;
-           }
-        }
-        @media screen and (min-width:501px) and (max-width: 832px)
-        {
-               .search-box{
-                display: none;
-               }    
         }
 
 
